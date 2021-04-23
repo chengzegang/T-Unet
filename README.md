@@ -4,7 +4,7 @@
 ## Overview
  A Temporal-Unet designed to extract vocal from songs
 ## Dependencies
-
+This repository uses Tensorflow to build and train T-Net, and it requries to run on a TPU in colab environment. However, it is almost effortless to rewrite codes and run in any environment.
 ## Datasets
 [MUSDB18](https://sigsep.github.io/datasets/musdb.html)
 ## Model
