@@ -4,7 +4,7 @@
 ## Dependencies
 
 ## Datasets
-@musdb-18
+@musdb18-hq
 ## Model
 
 ## Statics
