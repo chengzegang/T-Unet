@@ -1,6 +1,6 @@
 
 
-# Vocal Extractor (experimental)
+# T-Unet (experimental)
 ## Overview
  A Temporal-Unet designed to extract vocal from songs
 ## Dependencies
